@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.state.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local state (kept in system temp, never committed)
+desktop_computer_use.state.json
