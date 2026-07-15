@@ -4,7 +4,7 @@ displayName: Desktop Computer Use
 name: desktop-computer-use
 description: Windows 语义化桌面控制：让 AI 像人一样看懂并操作桌面应用与浏览器。
 summary: Windows 语义化桌面控制：让 AI 像人一样看懂并操作桌面应用与浏览器，原生 GUI 与浏览器 CDP 双支持。
-version: 1.0.3
+version: 1.0.4
 author: 木火晨鸣
 license: MIT
 platforms: [Windows]

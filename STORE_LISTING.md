@@ -73,8 +73,8 @@
 
 ---
 
-## 👤 作者 & 关注
+## 👤 作者 & 开源
 
 - 作者：**木火晨鸣**
-- 公众号：**AI干货分享社**（微信搜这个名字就能找到）——更多 AI 实操干货与《免费大模型使用途径完整指南》资料包。
 - 开源仓库：https://github.com/licunyangokok/desktop-computer-use
+- 基于 pi-computer-use（MIT 协议）独立实现

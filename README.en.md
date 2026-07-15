@@ -49,8 +49,8 @@ MIT License © 2026 木火晨鸣 (Muhuo Chenming)
 - Dangerous actions (e.g., closing a window, system shortcuts) require a second confirmation.
 - Runs entirely locally; no public network connection, no data upload.
 
-## Author & more
+## Author & Source
 
 - Author: **木火晨鸣 (Muhuo Chenming)**
-- WeChat Official Account: **AI干货分享社** (search the name on WeChat) — more hands-on AI tutorials; follow to get the free guide *《免费大模型使用途径完整指南》* (Complete Guide to Free LLM Access).
 - Source: https://github.com/licunyangokok/desktop-computer-use
+- Independently re-implemented based on [pi-computer-use](https://github.com/earendil-works/pi) (MIT License).

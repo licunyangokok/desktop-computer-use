@@ -1,0 +1,16 @@
+# ClawHub 发布元数据（网页端 clawhub.ai/skills/publish 上传时参考此字段）
+# 注意：部分 ClawHub 文档称强制 MIT-0（免署名）；若审核要求，请将 license 改为 MIT-0 并同步 LICENSE.md
+name: desktop-computer-use
+version: 1.0.3
+description: Windows 语义化桌面控制：让 AI 像人一样看懂并操作桌面应用与浏览器（UIA 无障碍树 + 浏览器 CDP）。基于 pi-computer-use 的 Python 独立再实现。
+author: licunyangokok
+homepage: https://github.com/licunyangokok/desktop-computer-use
+skill_file: SKILL.md
+tags:
+  - windows
+  - automation
+  - desktop
+  - gui
+  - productivity
+  - chinese
+license: MIT

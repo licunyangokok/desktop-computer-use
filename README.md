@@ -61,8 +61,8 @@ MIT License © 2026 木火晨鸣
 - 危险操作（如关闭窗口、系统快捷键）会要求二次确认。
 - 全程本地运行，不连接公网、不上传任何数据。
 
-## 作者 & 更多
+## 作者 & 开源
 
 - 作者：**木火晨鸣**
-- 公众号：**AI干货分享社**（微信搜这个名字就能找到）——更多 AI 实操干货，关注可领《免费大模型使用途径完整指南》资料包。
 - 开源仓库：https://github.com/licunyangokok/desktop-computer-use
+- 基于 [pi-computer-use](https://github.com/earendil-works/pi)（MIT 协议）独立实现，版权与署名详见《开源协议与署名》章节。
